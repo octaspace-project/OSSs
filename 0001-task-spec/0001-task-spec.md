@@ -49,6 +49,7 @@
     <<"xpu-n">>                  := pos_integer(),
     <<"xpu-fallback-wait-time">> => pos_integer(),
     <<"pending-ttl">>            => pos_integer(),
+    <<"ttl">>                    => pos_integer(),
     <<"spaces">> := #{
         xpu() := binary()
     },
