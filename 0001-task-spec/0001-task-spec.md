@@ -1,6 +1,6 @@
-OSS: 0001
-Title: Task format specification
-Status: Draft
+# OSS: 0001, Task format specification
+
+ * Status: Draft
 
 ```
 -type xpu() :: <<"cpu">> | <<"nvidia">> | <<"amd">>.
