@@ -7,7 +7,7 @@ Status: "Draft"
 |Port number|Description|Mandatory|
 |:---------:|:---------:|:-------:|
 |7015|Node P2P Protocol|Y|
-|7013|Node External API|N|
+|7013|Node External API|Y|
 |7133|Node Internal API|N|
 |7014|Node WS API|N|
 |47015|Node Control Interface|Y|
